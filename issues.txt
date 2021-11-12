@@ -1,0 +1,1 @@
+fixed the minor bug of the release
